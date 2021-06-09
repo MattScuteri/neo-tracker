@@ -1,0 +1,2 @@
+# Near Earth Object Tracker
+This is a simple command line project that utilizes an open NASA API for tracking Near Earth Objects. The user is prompted to enter a date and the API is kicked off to give the user all of the Near Earth Objects that will be making their closest approach to Earth on that date. The program also shows the object name, size, closest approach distance, and whether or not the object is a threat.
